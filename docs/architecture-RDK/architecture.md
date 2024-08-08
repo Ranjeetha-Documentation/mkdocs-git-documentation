@@ -1,6 +1,4 @@
-#RDK-Architecture
-
-## Architecture 
+# Architecture 
 
 RDK Video Architecture is designed to enable service providers and device manufacturers to develop and deploy innovative video applications, services, and user experiences. It consists of several key components that work together seamlessly to provide a robust video platform.
 
