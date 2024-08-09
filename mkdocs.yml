@@ -1,6 +1,9 @@
 site_name: mkdocs-documentation
 theme: 
   name: material
+  extra: 
+  version: 
+  provider: mike
   features:
     - navigation.tabs
     - navigation.sections
